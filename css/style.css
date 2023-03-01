@@ -1,0 +1,7 @@
+.gradienteFondo {
+    background: linear-gradient(purple, blue);
+    color: white;
+    width: 500px;
+    padding: 40px;
+
+}
